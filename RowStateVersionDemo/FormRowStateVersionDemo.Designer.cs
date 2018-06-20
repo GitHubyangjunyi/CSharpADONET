@@ -372,6 +372,7 @@
             this.Controls.Add(this.Btn_Save);
             this.Name = "FormRowStateVersionDemo";
             this.Text = "RowStateVersionDemo";
+            this.Load += new System.EventHandler(this.FormRowStateVersionDemo_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
