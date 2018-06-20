@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAdapterDemo", "DataAdap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConflictHandlingDemo", "ConflictHandlingDemo\ConflictHandlingDemo.csproj", "{435FB297-6730-40D7-A213-D8ED16A69F7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLINQ", "CSharpLINQ\CSharpLINQ.csproj", "{33B1EEB4-7828-40F4-81AE-CE607B40CCEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{435FB297-6730-40D7-A213-D8ED16A69F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{435FB297-6730-40D7-A213-D8ED16A69F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{435FB297-6730-40D7-A213-D8ED16A69F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B1EEB4-7828-40F4-81AE-CE607B40CCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B1EEB4-7828-40F4-81AE-CE607B40CCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B1EEB4-7828-40F4-81AE-CE607B40CCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B1EEB4-7828-40F4-81AE-CE607B40CCEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
